@@ -24,5 +24,18 @@
       "unknown": 0,
       "total": 10
     }
+  },
+  {
+    "buildOrder": 3,
+    "reportUrl": "https://github.com/teppoaland/sbsaa/actions/runs/17870195852",
+    "reportName": "Run #3",
+    "data": {
+      "failed": 6,
+      "broken": 2,
+      "skipped": 0,
+      "passed": 2,
+      "unknown": 0,
+      "total": 10
+    }
   }
 ]
