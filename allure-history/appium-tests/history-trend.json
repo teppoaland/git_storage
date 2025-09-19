@@ -63,5 +63,18 @@
       "unknown": 0,
       "total": 10
     }
+  },
+  {
+    "buildOrder": 6,
+    "reportUrl": "https://github.com/teppoaland/sesaa/actions/runs/17864190895",
+    "reportName": "Run #6",
+    "data": {
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 9,
+      "unknown": 0,
+      "total": 10
+    }
   }
 ]
