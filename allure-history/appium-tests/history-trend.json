@@ -24,5 +24,18 @@
       "unknown": 0,
       "total": 10
     }
+  },
+  {
+    "buildOrder": 3,
+    "reportUrl": "https://github.com/teppoaland/sesaa/actions/runs/17862937150",
+    "reportName": "Run #3",
+    "data": {
+      "failed": 1,
+      "broken": 1,
+      "skipped": 0,
+      "passed": 8,
+      "unknown": 0,
+      "total": 10
+    }
   }
 ]
