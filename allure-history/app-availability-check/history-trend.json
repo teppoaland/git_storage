@@ -63,5 +63,18 @@
       "unknown": 0,
       "total": 15
     }
+  },
+  {
+    "buildOrder": 6,
+    "reportUrl": "https://github.com/teppoaland/app_availability_check/actions/runs/17899396823",
+    "reportName": "Run #6",
+    "data": {
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 14,
+      "unknown": 0,
+      "total": 15
+    }
   }
 ]
