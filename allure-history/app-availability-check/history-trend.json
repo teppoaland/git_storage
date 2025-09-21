@@ -1,0 +1,15 @@
+[
+  {
+    "buildOrder": 1,
+    "reportUrl": "https://github.com/teppoaland/app_availability_check/actions/runs/17896980483",
+    "reportName": "Run #1",
+    "data": {
+      "failed": 0,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 6,
+      "unknown": 0,
+      "total": 6
+    }
+  }
+]
