@@ -4,34 +4,45 @@
     "app_name": "Sebitti S\u00e4\u00e4",
     "installation_status": "Success",
     "installed_version": "1.0.8",
-    "timestamp": "2025-09-22T00:17:45.049370"
+    "timestamp": "2025-09-22T00:51:12.379112",
+    "ui_verification": "Failed",
+    "overall_status": "Issues - UI verification failed",
+    "ui_error": "Expected UI element not found: KOTI\nTab 1 of 3"
   },
   {
     "package_name": "fi.reportronic.app",
     "app_name": "Reportronic",
     "installation_status": "Success",
     "installed_version": "1.2.9",
-    "timestamp": "2025-09-22T00:18:04.603201"
+    "timestamp": "2025-09-22T00:51:33.440319",
+    "ui_verification": "Success",
+    "overall_status": "Available"
   },
   {
     "package_name": "com.feelment",
     "app_name": "Feelment",
     "installation_status": "Success",
     "installed_version": "1.7.0",
-    "timestamp": "2025-09-22T00:18:24.387955"
+    "timestamp": "2025-09-22T00:51:51.436201",
+    "ui_verification": "Success",
+    "overall_status": "Available"
   },
   {
     "package_name": "com.coubonga.app",
     "app_name": "Coubonga",
     "installation_status": "Success",
     "installed_version": "2.9.1",
-    "timestamp": "2025-09-22T00:18:44.248777"
+    "timestamp": "2025-09-22T00:52:09.490505",
+    "ui_verification": "Success",
+    "overall_status": "Available"
   },
   {
     "package_name": "com.iloq.smartlock.s50",
     "app_name": "iLOQ",
     "installation_status": "Success",
     "installed_version": "2.4.1",
-    "timestamp": "2025-09-22T00:19:00.689951"
+    "timestamp": "2025-09-22T00:52:27.481891",
+    "ui_verification": "Success",
+    "overall_status": "Available"
   }
 ]
