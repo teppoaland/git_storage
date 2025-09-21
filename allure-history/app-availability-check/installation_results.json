@@ -1,0 +1,16 @@
+[
+  {
+    "package_name": "fi.sbweather.app",
+    "app_name": "Sebitti S\u00e4\u00e4",
+    "installation_status": "Success",
+    "installed_version": "1.0.8",
+    "timestamp": "2025-09-21T21:23:56.618826"
+  },
+  {
+    "package_name": "fi.reportronic.app",
+    "app_name": "Reportronic",
+    "installation_status": "Success",
+    "installed_version": "1.2.9",
+    "timestamp": "2025-09-21T21:24:20.943149"
+  }
+]
