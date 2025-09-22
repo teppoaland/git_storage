@@ -4,17 +4,16 @@
     "app_name": "Sebitti S\u00e4\u00e4",
     "installation_status": "Success",
     "installed_version": "1.0.8",
-    "timestamp": "2025-09-22T00:51:12.379112",
-    "ui_verification": "Failed",
-    "overall_status": "Issues - UI verification failed",
-    "ui_error": "Expected UI element not found: KOTI\nTab 1 of 3"
+    "timestamp": "2025-09-22T15:09:18.310730",
+    "ui_verification": "Success",
+    "overall_status": "Available"
   },
   {
     "package_name": "fi.reportronic.app",
     "app_name": "Reportronic",
     "installation_status": "Success",
     "installed_version": "1.2.9",
-    "timestamp": "2025-09-22T00:51:33.440319",
+    "timestamp": "2025-09-22T15:09:39.303733",
     "ui_verification": "Success",
     "overall_status": "Available"
   },
@@ -23,7 +22,7 @@
     "app_name": "Feelment",
     "installation_status": "Success",
     "installed_version": "1.7.0",
-    "timestamp": "2025-09-22T00:51:51.436201",
+    "timestamp": "2025-09-22T15:10:00.492822",
     "ui_verification": "Success",
     "overall_status": "Available"
   },
@@ -32,7 +31,7 @@
     "app_name": "Coubonga",
     "installation_status": "Success",
     "installed_version": "2.9.1",
-    "timestamp": "2025-09-22T00:52:09.490505",
+    "timestamp": "2025-09-22T15:10:18.614913",
     "ui_verification": "Success",
     "overall_status": "Available"
   },
@@ -41,7 +40,7 @@
     "app_name": "iLOQ",
     "installation_status": "Success",
     "installed_version": "2.4.1",
-    "timestamp": "2025-09-22T00:52:27.481891",
+    "timestamp": "2025-09-22T15:10:36.620511",
     "ui_verification": "Success",
     "overall_status": "Available"
   }
