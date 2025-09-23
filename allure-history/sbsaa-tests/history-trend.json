@@ -1,18 +1,5 @@
 [
   {
-    "buildOrder": 12,
-    "reportUrl": "https://github.com/teppoaland/sbsaa/actions/runs/17916590892",
-    "reportName": "Run #12",
-    "data": {
-      "failed": 1,
-      "broken": 0,
-      "skipped": 0,
-      "passed": 9,
-      "unknown": 0,
-      "total": 10
-    }
-  },
-  {
     "buildOrder": 13,
     "reportUrl": "https://github.com/teppoaland/sbsaa/actions/runs/17917631160",
     "reportName": "Run #13",
@@ -120,6 +107,19 @@
     "buildOrder": 21,
     "reportUrl": "https://github.com/teppoaland/sbsaa/actions/runs/17942208105",
     "reportName": "Run #21",
+    "data": {
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 9,
+      "unknown": 0,
+      "total": 10
+    }
+  },
+  {
+    "buildOrder": 22,
+    "reportUrl": "https://github.com/teppoaland/sbsaa/actions/runs/17942773151",
+    "reportName": "Run #22",
     "data": {
       "failed": 1,
       "broken": 0,
