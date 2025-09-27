@@ -1,52 +1,21 @@
 [
   {
-    "build": "Build #20250927.25",
-    "buildOrder": 94,
-    "timestamp": "2025-09-27T21:50:22.422542",
+    "buildOrder": 1,
+    "reportUrl": "https://github.com/user/repo/actions/runs/1",
+    "reportName": "Run #1",
     "data": {
-      "passed": 9,
       "failed": 1,
       "broken": 0,
-      "skipped": 0
+      "skipped": 0,
+      "passed": 9,
+      "unknown": 0,
+      "total": 10
     }
   },
   {
-    "build": "Build #20250927.26",
-    "buildOrder": 95,
-    "timestamp": "2025-09-27T22:03:43.942399",
-    "data": {
-      "passed": 9,
-      "failed": 1,
-      "broken": 0,
-      "skipped": 0
-    }
-  },
-  {
-    "build": "Build #20250927.27",
-    "buildOrder": 96,
-    "timestamp": "2025-09-27T22:43:25.317377",
-    "data": {
-      "passed": 9,
-      "failed": 1,
-      "broken": 0,
-      "skipped": 0
-    }
-  },
-  {
-    "build": "Build #20250927.28",
-    "buildOrder": 97,
-    "timestamp": "2025-09-27T23:07:39.175582",
-    "data": {
-      "passed": 9,
-      "failed": 1,
-      "broken": 0,
-      "skipped": 0
-    }
-  },
-  {
-    "build": "Build #20250927.29",
-    "buildOrder": 98,
-    "timestamp": "2025-09-27T23:14:00.219663",
+    "build": "Build #20250927.30",
+    "buildOrder": 99,
+    "timestamp": "2025-09-27T23:34:51.316330",
     "data": {
       "passed": 9,
       "failed": 1,
