@@ -24,5 +24,18 @@
       "unknown": 0,
       "total": 10
     }
+  },
+  {
+    "buildOrder": 3,
+    "reportUrl": "https://github.com/user/repo/actions/runs/1",
+    "reportName": "Run #3",
+    "data": {
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 9,
+      "unknown": 0,
+      "total": 10
+    }
   }
 ]
