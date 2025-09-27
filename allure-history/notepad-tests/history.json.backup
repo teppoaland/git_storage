@@ -9,16 +9,5 @@
       "broken": 0,
       "skipped": 0
     }
-  },
-  {
-    "build": "Build #20250927.23",
-    "buildOrder": 92,
-    "timestamp": "2025-09-27T21:18:46.435104",
-    "data": {
-      "passed": 0,
-      "failed": 0,
-      "broken": 0,
-      "skipped": 0
-    }
   }
 ]
