@@ -11,5 +11,16 @@
       "unknown": 0,
       "total": 10
     }
+  },
+  {
+    "build": "Build #20250928.4",
+    "buildOrder": 106,
+    "timestamp": "2025-09-28T12:46:58.503664",
+    "data": {
+      "passed": 9,
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0
+    }
   }
 ]
