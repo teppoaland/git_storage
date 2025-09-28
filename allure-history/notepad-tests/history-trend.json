@@ -2,7 +2,7 @@
   {
     "buildOrder": 127,
     "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/results?buildId=127",
-    "reportName": "Build #20250928.25",
+    "reportName": "Run #127",
     "data": {
       "failed": 1,
       "broken": 0,
@@ -15,7 +15,7 @@
   {
     "buildOrder": 128,
     "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/results?buildId=128",
-    "reportName": "Build #20250928.26",
+    "reportName": "Run #128",
     "data": {
       "failed": 1,
       "broken": 0,
@@ -28,7 +28,7 @@
   {
     "buildOrder": 129,
     "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/results?buildId=129",
-    "reportName": "Build #20250928.27",
+    "reportName": "Run #129",
     "data": {
       "failed": 1,
       "broken": 0,
