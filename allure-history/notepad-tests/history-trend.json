@@ -1,8 +1,21 @@
 [
   {
+    "buildOrder": 127,
+    "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/results?buildId=127",
+    "reportName": "Build #20250928.25",
+    "data": {
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 9,
+      "unknown": 0,
+      "total": 10
+    }
+  },
+  {
     "buildOrder": 128,
-    "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/history",
-    "reportName": "Historical Run",
+    "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/results?buildId=128",
+    "reportName": "Build #20250928.26",
     "data": {
       "failed": 1,
       "broken": 0,
