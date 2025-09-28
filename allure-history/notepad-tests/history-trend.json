@@ -1,0 +1,15 @@
+[
+  {
+    "buildOrder": 122,
+    "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/results?buildId=122",
+    "reportName": "Build #20250928.20",
+    "data": {
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 9,
+      "unknown": 0,
+      "total": 10
+    }
+  }
+]
