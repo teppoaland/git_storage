@@ -13,9 +13,22 @@
     }
   },
   {
-    "build": "Build #20250928.4",
-    "buildOrder": 106,
-    "timestamp": "2025-09-28T12:46:58.503664",
+    "buildOrder": 2,
+    "reportUrl": "https://github.com/user/repo/actions/runs/1",
+    "reportName": "Run #2",
+    "data": {
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 9,
+      "unknown": 0,
+      "total": 10
+    }
+  },
+  {
+    "build": "Build #20250928.5",
+    "buildOrder": 107,
+    "timestamp": "2025-09-28T12:50:06.947040",
     "data": {
       "passed": 9,
       "failed": 1,
