@@ -1,0 +1,23 @@
+[
+  {
+    "data": {
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 9,
+      "unknown": 0,
+      "total": 10
+    }
+  },
+  {
+    "build": "Build #20250928.8",
+    "buildOrder": 110,
+    "timestamp": "2025-09-28T14:07:23.304655",
+    "data": {
+      "passed": 9,
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0
+    }
+  }
+]
