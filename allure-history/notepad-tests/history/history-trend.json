@@ -24,5 +24,18 @@
       "unknown": 0,
       "total": 10
     }
+  },
+  {
+    "buildOrder": 3,
+    "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/results?buildId=174",
+    "reportName": "Run #3",
+    "data": {
+      "failed": 1,
+      "broken": 0,
+      "skipped": 0,
+      "passed": 9,
+      "unknown": 0,
+      "total": 10
+    }
   }
 ]
