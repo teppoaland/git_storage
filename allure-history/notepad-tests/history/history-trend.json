@@ -1,15 +1,15 @@
 [
   {
     "buildOrder": 1,
+    "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/results?buildId=164",
     "reportName": "Run #1",
-    "reportUrl": "https://dev.azure.com/ttapani-solutions/Notepad/_build/results?buildId=163",
     "data": {
-      "failed": 0,
+      "failed": 1,
       "broken": 0,
       "skipped": 0,
-      "passed": 0,
+      "passed": 9,
       "unknown": 0,
-      "total": 0
+      "total": 10
     }
   }
 ]
