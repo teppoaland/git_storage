@@ -1,6 +1,0 @@
-Setting up test with filename: Test_file_20250928_140530.txt
-TEST 005: Find Save As Option
-SUCCESS: PASS: Save As option found
-Starting test cleanup...
-No Notepad processes to kill
-Test cleanup completed

@@ -1,1 +1,0 @@
-"No Allure report generated" 

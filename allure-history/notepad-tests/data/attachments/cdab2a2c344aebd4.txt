@@ -1,6 +1,0 @@
-Setting up test with filename: Test_file_20250929_015204.txt
-TEST 007: Find Filename Field
-SUCCESS: PASS: Filename field found and accessible
-Starting test cleanup...
-Force-killed Notepad processes
-Test cleanup completed

@@ -1,6 +1,0 @@
-Setting up test with filename: Test_file_20250928_160728.txt
-TEST 010: Complete File Save
-SUCCESS: PASS: File saved successfully. Window title: Test_file_20250928_160728.txt - Notepad
-Starting test cleanup...
-No Notepad processes to kill
-Test cleanup completed

@@ -1,6 +1,0 @@
-Setting up test with filename: Test_file_20250928_140506.txt
-TEST 001: Launch Notepad
-SUCCESS: PASS: Notepad launched successfully
-Starting test cleanup...
-No Notepad processes to kill
-Test cleanup completed

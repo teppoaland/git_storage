@@ -1,6 +1,0 @@
-Setting up test with filename: Test_file_20250928_230405.txt
-TEST 002: Find Text Editor
-SUCCESS: PASS: Text editor field found and accessible
-Starting test cleanup...
-No Notepad processes to kill
-Test cleanup completed
